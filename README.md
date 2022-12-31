@@ -1,6 +1,7 @@
 <img src="https://github.com/FAIZAN-SHAIK/FAIZAN-SHAIK/blob/main/faizu_github_coverpage.gif" alt="faizu coverpage"  >
 <h1 align="center" color="red" >Hi 👋, I'm Faizan Shaik</h1>
 <h3 align="center">A passionate Techy & Software Developer from India</h3>
+<hr>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-shaik&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-shaik" /> </p>
