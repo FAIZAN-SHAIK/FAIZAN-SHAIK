@@ -1,4 +1,4 @@
-<img src="https://github.com/FAIZAN-SHAIK/FAIZAN-SHAIK/blob/main/faizu_github_coverpage.gif" alt="faizu coverpage" width="500" height="300px" margin="0px auto">
+<img src="https://github.com/FAIZAN-SHAIK/FAIZAN-SHAIK/blob/main/faizu_github_coverpage.gif" alt="faizu coverpage" >
 <h1 align="center">Hi 👋, I'm Faizan Shaik</h1>
 <h3 align="center">A passionate Techy & Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&sxsrf=ALiCzsYrGrYN8DW7StBf9p1Wt86Uju4YxA:1672372705623&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyzbPouaD8AhWVJrcAHSH3D44Q_AUoAXoECAEQAw&biw=1186&bih=567&dpr=1.62#imgrc=PXLAloFJw---QM">
