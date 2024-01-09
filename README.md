@@ -2,6 +2,7 @@
 <h1 align="center" color="red" >Hi 👋, I'm Faizan Shaik</h1>
 <h3 align="center">A passionate Techy & Software Developer from India. I really enjoy learning languages like C,C++,Python ,Html,Css ,Javascript and frameworks like React and Bootstrap, as well as work in Machine Learning.</h3>
 <hr>
+<a href="https://notepad.pw/share/JUG8qavlNFbn6tcfnA4g">Link</a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-shaik&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-shaik" /> </p>
